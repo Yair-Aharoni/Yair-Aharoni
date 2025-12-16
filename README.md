@@ -1,55 +1,37 @@
-<p align="center">
-  <!-- Header banner -->
-  <img src="github_header.png" alt="Yair Aharoni GitHub Header" width="100%">
-</p>
+## 👋 Hey, I'm Yair Aharoni  
+### 🎧 DSP • Embedded Systems • Control & Communications • Board Design  
 
 <p align="center">
-  <!-- Personal logo -->
-  <img src="logo.png" alt="YA Logo" width="110">
-</p>
-
-<h1 align="center">Hey, I'm Yair Aharoni 👋</h1>
-
-<p align="center">
-  🎧 DSP • Embedded Systems • Control & Communications • Board Design  
-  <br>
-  MATLAB • Signal Processing • C • Arduino • ESP32 • Altium Designer
+  MATLAB • Signal Processing • DSP • C • Arduino • ESP32 • Altium Designer
 </p>
 
 ---
 
 ## 🔍 About Me
+I'm a **4th-year Electrical & Electronics Engineering student** with strong focus on practical engineering and signal processing.
 
-I'm a 4th-year **Electrical & Electronics Engineering** student specializing in:
+My main interests and experience include:
+- **DSP & Signal Processing** (speech processing, VAD, pitch estimation)
+- **Embedded Systems** (C, Arduino, ESP32, real-time logic)
+- **Control & Communication systems**
+- **Board Design & PCB development** using Altium Designer
 
-- **DSP / Signal Processing engineering**
-- **Embedded Systems development (C, Arduino, ESP32, MATLAB)**
-- **Control systems & real-time algorithms**
-- **Board Design & PCB development using Altium Designer**
-- **Wireless communications & antenna-related engineering**
-
-I enjoy solving engineering problems through hands-on projects, clean code, and applied mathematics.
+I enjoy building things end-to-end — from algorithms, through firmware, to hardware.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 TECH STACK
 
-### 🔹 Languages & Software
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-ffdd00?style=for-the-badge&logo=Mathworks&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSP-Signal%20Processing-orange?style=for-the-badge" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/ESP32-Embedded-black?style=for-the-badge"/>
 
-### 🔹 Embedded & Hardware
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB%20Design-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-PCB-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -57,57 +39,43 @@ I enjoy solving engineering problems through hands-on projects, clean code, and 
 ## ⭐ Highlighted Projects
 
 ### 🔹 DSP Speech Processing Project  
-**Voice Activity Detection • Pitch Estimation • Base Frequency Extraction • Harmonic Synthesis**
+**Voice Activity Detection • Pitch Estimation • Base Frequency • Harmonic Synthesis**
 
 - Implemented in **MATLAB**
-- Uses **RMS-based VAD**, STFT spectrogram, and `pitch()` for pitch tracking
-- Generates a **pseudo-speech signal** using harmonic synthesis
-- Exports **WAV** and **CSV** (VAD + pitch vs time)
+- RMS-based **VAD**
+- **STFT spectrogram** + pitch tracking
+- **Pseudo-speech synthesis**
+- Export of **WAV** and **CSV** files
 
-👉 Repo: `[link to your DSP project repo]`
-
----
-
-### 🔹 Arduino / ESP32 Embedded Project  
-**Sensors • Real-time control • Communications (e.g., UART / WiFi / BLE)**
-
-- Written in **C / Arduino**
-- Focus on **embedded logic, timing, and communication**
-- Can be expanded for motor control, sensor fusion, or wireless systems
-
-👉 Repo: `[link to your embedded project repo]`
+👉 Repository:  
+`DSP-Speech-Processing-Project`
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Embedded / ESP32 Project  
+- Embedded C / Arduino
+- Sensors, timing, communication
+- Real-time constraints
+
+---
+
+## 📞 CONTACT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yair-Aharoni&show_icons=true&theme=tokyonight" alt="Yair's GitHub Stats" />
+  <a href="mailto:aharonyyair@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yair-aharoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Aharoni&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 📧 **Email:** [aharonyyair@gmail.com](mailto:aharonyyair@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/yair-aharoni](https://www.linkedin.com/in/yair-aharoni/)  
 
 ---
 
 ## 🚀 Currently Working On
+- DSP projects in **MATLAB**
+- Embedded systems with **ESP32 / Arduino**
+- **PCB & board design** in Altium
+- Preparing for **DSP / Embedded / Board Design** roles
 
-- Expanding DSP capabilities in **MATLAB**
-- Building embedded systems with **ESP32 / Arduino**
-- Improving PCB / board design workflow in **Altium**
-- Preparing for a career in **DSP / Embedded / Board Design engineering**
-
----
-
-## 💬 Feel free to reach out!
-
-Always happy to talk about **DSP, embedded design, PCB engineering, or cool hardware projects** 😄
 
